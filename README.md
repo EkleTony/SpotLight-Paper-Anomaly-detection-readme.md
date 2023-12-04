@@ -25,3 +25,8 @@ Experiments and the implementation of SpotLight have been carried out using the 
 ```bash
 git clone https://github.com/your-username/spotlight-anomaly-detection.git
 cd spotlight-anomaly-detection
+
+2. Install python version 3.11.4 (and above) and necessary packages
+
+3. run python code.
+```
